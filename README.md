@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # Serial Data Communication on STM32 (Interrupt-Driven UART)
 
@@ -109,6 +111,3 @@ You should now see the welcome message and quiz output.
 
 **Mohammad Faraj**
 [GitHub](https://github.com/MoFa-14) | [LinkedIn](https://www.linkedin.com/in/mohammad-faraj-480615272/)
-
-```
-```

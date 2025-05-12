@@ -1,5 +1,3 @@
----
-
 ```markdown
 # Serial Data Communication on STM32 (Interrupt-Driven UART)
 
